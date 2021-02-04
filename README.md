@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-matrix: https://matrix.to/#/@me:brodi.space
-mastodon: @me@mastodon.brodi.space
+- matrix: https://matrix.to/#/@me:brodi.space
+- mastodon: @me@mastodon.brodi.space
 
 <!--
 **brodi1/brodi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
