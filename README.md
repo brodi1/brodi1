@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- e-mail: [me@brodi.space](mailto:me@brodi.space)
-- matrix: @me:brodi.space (https://matrix.to/#/@me:brodi.space)
-- mastodon: @me@mastodon.brodi.space (https://mastodon.brodi.space/@me)
+- e-mail:   [me@brodi.space](mailto:me@brodi.space)
+- matrix:   [@me:brodi.space](https://matrix.to/#/@me:brodi.space)
+- mastodon: [@me@mastodon.brodi.space](https://mastodon.brodi.space/@me)
 
 <!--
 **brodi1/brodi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
