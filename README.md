@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- e-mail: [me@brodi.space](mailto:me@brodi.space)
 - matrix: @me:brodi.space (https://matrix.to/#/@me:brodi.space)
 - mastodon: @me@mastodon.brodi.space (https://mastodon.brodi.space/@me)
 
