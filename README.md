@@ -2,7 +2,6 @@
 
 - e-mail:   [me@brodi.space](mailto:me@brodi.space)
 - matrix:   [@me:brodi.space](https://matrix.to/#/@me:brodi.space)
-- tox id:  8840212DB48BF10C87230CFAD3BD5E45583D92396BA72EBA50FBA75798C9F07884B551112F6B 
 - mastodon: [@me@mastodon.brodi.space](https://mastodon.brodi.space/@me)
 
 <!--
